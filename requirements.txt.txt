@@ -1,7 +1,6 @@
 pandas==2.1.4
 numpy==1.26.4
 streamlit
-pickle
 scikit-leran
 tensorflow
 pip==23.3.1
